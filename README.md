@@ -1,5 +1,7 @@
 # BugLine
 
+![Project screenshot](docs/screenshot.png)
+
 BugLine is a QA bug tracker demo for manual testing workflows. It records issues, areas, severity, reproduction steps, and verification status.
 
 ## Run
